@@ -1,1 +1,3 @@
 # JavaLessons
+
+Структура Java.
